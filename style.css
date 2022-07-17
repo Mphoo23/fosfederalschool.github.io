@@ -64,7 +64,7 @@ nav .fa{
 .text-box{
     text-align:center;
     /* margin: auto; */
-    top: 50%;
+    top: 70%;
     left: 50%;
     position: absolute;
     width:90%;
@@ -128,6 +128,7 @@ nav .fa{
     margin: auto;
     width:80%;
     padding-top:100px;
+    
 }
 h1{
     font-size: 30px;
@@ -149,7 +150,7 @@ h1{
     margin: 10px;
 }
 .course-col a{
-    
+    margin-top: 100px;
     margin-bottom: 10px;
     background:#10199e;
     padding: 10px;
